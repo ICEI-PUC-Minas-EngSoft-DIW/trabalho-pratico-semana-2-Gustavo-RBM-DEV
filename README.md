@@ -12,7 +12,8 @@
 - Matricula:898623
 
 ## Print da tela da página criada (Curriculum Vitae)
-<img width="1919" height="1022" alt="Captura de tela 2025-08-24 011311" src="https://github.com/user-attachments/assets/213b9593-c40b-4795-8dc8-6a75016eb8fd" />
+<img width="1910" height="965" alt="Captura de tela 2025-08-24 014344" src="https://github.com/user-attachments/assets/4a89429c-8b55-486e-af35-7643c87174d4" />
+
 
 ` />
 
