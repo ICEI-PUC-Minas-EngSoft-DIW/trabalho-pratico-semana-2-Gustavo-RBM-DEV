@@ -3,7 +3,7 @@
 ## Informações Gerais
 - Nome: Gustavo Rodrigues Barbara Moreira
 <<<<<<< HEAD
-- Matricula:00898623
+- Matricula:898623
 
 ## Print da tela da página criada (Curriculum Vitae)
 
